@@ -1,0 +1,7 @@
+Anything you type will enter the text file as text.
+
+To save the file - use 'Write Out' Ctrl-O
+
+Having added more text, I need to save it again. 
+
+Note that you can't navigate the text file using your cursor.
